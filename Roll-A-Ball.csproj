@@ -81,6 +81,7 @@
     <Compile Include="Assets\_Completed-Game\Scripts\CameraController.cs" />
     <Compile Include="Assets\_Completed-Game\Scripts\PlayerController.cs" />
     <Compile Include="Assets\_Completed-Game\Scripts\Rotator.cs" />
+    <Compile Include="Assets\_PickupController.cs" />
     <Compile Include="Assets\Scripts\CSharp\_CameraController.cs" />
     <Compile Include="Assets\Scripts\CSharp\_PlayerController.cs" />
     <Compile Include="Assets\Scripts\CSharp\_RotatePickup.cs" />
