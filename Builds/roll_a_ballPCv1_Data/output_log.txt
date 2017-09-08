@@ -1,0 +1,45 @@
+Initialize engine version: 2017.1.0f3 (472613c02cf7)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: NVIDIA GeForce GTX 980 (ID=0x13c0)
+    Vendor:   NVIDIA
+    VRAM:     3072 MB
+    Driver:   22.21.13.8205
+Begin MonoManager ReloadAssembly
+Platform assembly: E:\Documents\Portfolio\Games\Roll-A-Ball\Builds\roll_a_ballPCv1_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading E:\Documents\Portfolio\Games\Roll-A-Ball\Builds\roll_a_ballPCv1_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: E:\Documents\Portfolio\Games\Roll-A-Ball\Builds\roll_a_ballPCv1_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading E:\Documents\Portfolio\Games\Roll-A-Ball\Builds\roll_a_ballPCv1_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: E:\Documents\Portfolio\Games\Roll-A-Ball\Builds\roll_a_ballPCv1_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading E:\Documents\Portfolio\Games\Roll-A-Ball\Builds\roll_a_ballPCv1_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: E:\Documents\Portfolio\Games\Roll-A-Ball\Builds\roll_a_ballPCv1_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading E:\Documents\Portfolio\Games\Roll-A-Ball\Builds\roll_a_ballPCv1_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: E:\Documents\Portfolio\Games\Roll-A-Ball\Builds\roll_a_ballPCv1_Data\Managed\UnityEngine.Timeline.dll (this message is harmless)
+Loading E:\Documents\Portfolio\Games\Roll-A-Ball\Builds\roll_a_ballPCv1_Data\Managed\UnityEngine.Timeline.dll into Unity Child Domain
+Platform assembly: E:\Documents\Portfolio\Games\Roll-A-Ball\Builds\roll_a_ballPCv1_Data\Managed\UnityEngine.Analytics.dll (this message is harmless)
+Loading E:\Documents\Portfolio\Games\Roll-A-Ball\Builds\roll_a_ballPCv1_Data\Managed\UnityEngine.Analytics.dll into Unity Child Domain
+Platform assembly: E:\Documents\Portfolio\Games\Roll-A-Ball\Builds\roll_a_ballPCv1_Data\Managed\System.dll (this message is harmless)
+Platform assembly: E:\Documents\Portfolio\Games\Roll-A-Ball\Builds\roll_a_ballPCv1_Data\Managed\System.Core.dll (this message is harmless)
+- Completed reload, in  0.219 seconds
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+UnloadTime: 2.116601 ms
+Setting up 4 worker threads for Enlighten.
+  Thread -> id: 354 -> priority: 1 
+  Thread -> id: 33a8 -> priority: 1 
+  Thread -> id: 3438 -> priority: 1 
+  Thread -> id: 1cf0 -> priority: 1 
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 11.071506 ms
+
+Unloading 4 unused Assets to reduce memory usage. Loaded Objects now: 474.
+Total: 0.507530 ms (FindLiveObjects: 0.060102 ms CreateObjectMapping: 0.050419 ms MarkObjects: 0.380647 ms  DeleteObjects: 0.015359 ms)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.760627 ms
+
+Unloading 3 unused Assets to reduce memory usage. Loaded Objects now: 468.
+Total: 0.380647 ms (FindLiveObjects: 0.056429 ms CreateObjectMapping: 0.031052 ms MarkObjects: 0.282480 ms  DeleteObjects: 0.010017 ms)
+
