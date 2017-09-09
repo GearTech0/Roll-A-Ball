@@ -4,6 +4,7 @@ using UnityEngine.UI;
 using UnityEngine.SceneManagement;
 using UnityEngine;
 
+[RequireComponent(typeof(AudioSource))]
 public class _PlayerController : MonoBehaviour {
 
     // Check every frame for player input
@@ -25,8 +26,11 @@ public class _PlayerController : MonoBehaviour {
     {
         playerRb = GetComponent<Rigidbody>();
         total = _PickupController.GetCount();
+
         SetCountText();
         SetTimerText();
+
+        AudioSource audio = GetComponent<AudioSource>();
         win_text.text = "";
         InvokeRepeating("SetTimerText", 0, 1);
     }
@@ -58,6 +62,7 @@ public class _PlayerController : MonoBehaviour {
         {
             other.gameObject.SetActive(false);
             count += 1;
+            GetComponent<AudioSource>().Play();
             SetCountText();
         }
         else if(other.gameObject.CompareTag("reset_plane"))
